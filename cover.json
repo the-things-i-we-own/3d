@@ -1,0 +1,103 @@
+{
+  "cover" : [
+    {
+      "org" : "print",
+      "size" : "xxx-large",
+      "x" : "30%",
+      "y" : "50%",
+      "src" : "logo.png"
+    },
+    {
+      "org" : "map",
+      "size" : "xxx-large",
+      "x" : "65%",
+      "y" : "50%",
+      "src" : "https://raw.githubusercontent.com/go-out/things-that-i-we-heard/refs/heads/main/heard/bnaaltermuseum/img/008.jpeg"
+    },
+    {
+      "org" : "motto",
+      "size" : "xx-large",
+      "x" : "55%",
+      "y" : "30%",
+      "src" : "motto/003.jpg"
+    },
+    {
+      "org" : "show",
+      "size" : "xxx-large",
+      "x" : "40%",
+      "y" : "50%",
+      "src" : "show/001.jpg"
+    },
+    {
+      "org" : "show",
+      "size" : "x-large",
+      "x" : "15%",
+      "y" : "25%",
+      "src" : "show/006.jpg"
+    },
+    {
+      "org" : "show",
+      "size" : "xx-large",
+      "x" : "70%",
+      "y" : "65%",
+      "src" : "show/000.jpg"
+    },
+    {
+      "org" : "website",
+      "size" : "medium",
+      "x" : "20%",
+      "y" : "35%",
+      "src" : "website/004.jpg"
+    },
+    {
+      "org" : "print",
+      "size" : "xx-large",
+      "x" : "80%",
+      "y" : "80%",
+      "src" : "org/001.jpg"
+    },
+    {
+      "org" : "map",
+      "size" : "xx-large",
+      "x" : "25%",
+      "y" : "75%",
+      "src" : "https://raw.githubusercontent.com/go-out/things-that-i-we-heard/refs/heads/main/heard/bnaaltermuseum/img/002.jpeg"
+    },
+    {
+      "org" : "map",
+      "size" : "x-large",
+      "x" : "25%",
+      "y" : "20%",
+      "src" : "https://raw.githubusercontent.com/go-out/things-that-i-we-heard/refs/heads/main/heard/bnaaltermuseum/img/001.jpeg"
+    },
+    {
+      "org" : "print",
+      "size" : "x-large",
+      "x" : "90%",
+      "y" : "25%",
+      "src" : "print/002.jpg"
+    },
+    {
+      "org" : "motto",
+      "size" : "x-large",
+      "x" : "35%",
+      "y" : "75%",
+      "src" : "motto/006.jpg"
+    },
+    {
+      "org" : "motto",
+      "size" : "large",
+      "x" : "60%",
+      "y" : "75%",
+      "src" : "motto/000.jpg"
+    },
+    {
+      "org" : "website",
+      "size" : "large",
+      "x" : "70%",
+      "y" : "30%",
+      "src" : "website/000.jpg"
+    }
+  ]
+}
+
